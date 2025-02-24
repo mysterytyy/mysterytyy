@@ -1,6 +1,6 @@
 ### 👋 Hey, I'm @channy
 ---
-**Front-End Developer | Problem Solver**
+**Front-End Developer**
 
 💻 *Crafting sleek, functional web experiences*
 
